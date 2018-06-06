@@ -1,0 +1,1 @@
+This is a slightly improved gulp file. Now it uses the Pug template and compresses the images
